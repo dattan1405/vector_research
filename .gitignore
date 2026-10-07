@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache/
+
+# Large execution logs and data dumps
+*.log
+history*.jsonl
+
+# IDE configuration
+.idea/
+.vscode/
+*.swp
+
+# OS temporary files
+Thumbs.db
+.DS_Store
