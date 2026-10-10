@@ -72,9 +72,3 @@ vector_research/
 
 ---
 
-## 👥 Phân công nhiệm vụ (Theo Thuyết minh Đề tài)
-* **Trương Minh Thuận (Chủ nhiệm):** Quản lý tiến độ, xây dựng mô hình nghiên cứu, đặc tả *Consistency Invariants*, viết báo cáo & bài báo.
-* **Đỗ Văn Quý:** Quản lý môi trường Docker, phát triển module kết nối và chuẩn hóa thao tác với các CSDL vector (`adapters/`).
-* **Lê Phúc Thịnh:** Xây dựng cơ chế ghi nhận lịch sử thực thi (`execution_logger.py`).
-* **Ngô Đăng Quang:** Xây dựng bộ sinh workload đa luồng, thay đổi số luồng và tỷ lệ đọc/ghi (`workload_generator.py`).
-* **Phạm Tấn Đạt:** Thu thập kết quả thực nghiệm, tính toán anomaly frequency, latency, recall; vẽ biểu đồ và trực quan hóa dữ liệu.
